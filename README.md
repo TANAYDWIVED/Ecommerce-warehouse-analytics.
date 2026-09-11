@@ -17,6 +17,4 @@ An end-to-end data analytics project using Excel and SQL to analyze warehouse op
 - WH-Central had the highest delivery delay rate at 82.7%.
 - WH-West had the highest return rate at 5.0%.
 
-## Dashboard Preview
 
-![E-commerce Warehouse Dashboard](dashboard.png)
